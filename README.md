@@ -1,6 +1,9 @@
 # GitHub-investigación
 Principales conceptos de Git, GitHub, Markdown y sus comandos
 
+EDGAR ERNESTO CRISTAL COYOY
+CARNE: 22007686
+
 INVESTIGACIÓN 1
 
 ¿Qué es Git?
