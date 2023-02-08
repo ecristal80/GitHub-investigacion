@@ -55,5 +55,41 @@ Ventajas de GitHub
 -	Permite colaborar para mejorar los proyectos de otras personas y también que otras personas mejoren los proyectos propios.
 -	Ayuda reducir significativamente los errores humanos y escribir el código más rápido con GitHub Copilot.
 
+##MARKDOWN Y SUS COMANDOS
+#Estilos de texto
 
+Se puede indicar énfasis con texto en negrita, cursiva, tachado o de subíndice o superíndice en los campos de comentarios y archivos .md.
 
+Encabezados:
+Para crear un encabezado, agrega entre uno y seis símbolos # antes del encabezado del texto. El número de # que use determinará el tamaño del encabezado.
+
+Estilos de texto:Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
+
+Entrecomillado de texto: Puede entrecomillar texto con >.
+
+Código de Cita:  Puedes indicar un código o un comando dentro de un enunciado con comillas simples. El texto dentro de las comillas simples no será formateado. También puedes presionar el método abreviado de teclado Comando+E (Mac) o Ctrl+E (Windows o Linux) para insertar las comillas simples de bloque de código en una línea de Markdown.
+
+Modelos de color compatibles:  En los problemas, las solicitudes de incorporación de cambios y los debates, puedes llamar a los colores dentro de una oración mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
+
+Vinculos:Puede crear un vínculo en línea escribiendo su texto entre corchetes [ ] y escribiendo la URL entre paréntesis ( ).
+
+Enlaces de sección:  Puedes vincular directamente a una sección en un archivo expedido si deslizas el puntero sobre el encabezado de la sección para exponer el enlace:
+
+Imagenes:  Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. Escriba el vínculo de la imagen entre paréntesis ().
+
+Listas:  Puedes crear una lista sin ordenar. Para ello, coloca -, * o + antes de una o más líneas de texto.
+
+Listas de tareas:  Para crear una lista de tareas, debe añadir como prefijo un guion y espacio, seguido de [ ] a los elementos de la lista. Para marcar una tarea como completada, use [x].
+
+Mencionar pesonas o equipos:  Puede mencionar a una persona o equipo en GitHub, Para ello, escriba @ junto con su nombre de usuario o equipo.
+
+Carga activos:  Puedes cargar activos como imágenes si las arrastras y sueltas, las seleccionas de un buscador de archivos o si las pegas. Puede cargar recursos en las incidencias, solicitudes de incorporación de cambios, comentarios y archivos .md en el repositorio.
+
+Usar emojis: Puede agregar emoji al texto escribiendo :EMOJICODE:.
+
+Párrafos:  Puedes crear un nuevo párrafo al dejar una línea en blanco entre las líneas de texto.
+
+Notas al pie:  Puedes agregar notas al pie para tu contenido si utilizas esta sintaxis de corchetes:
+
+Inhabilitar la representación del lenguaje de marcado: 
+Cuando ves un archivo de lenguaje de marcado, puedes hacer clic en el  en la parte superior de este para inhabilitar la representación de lenguaje de marcado y ver en su lugar el código fuente del archivo.
